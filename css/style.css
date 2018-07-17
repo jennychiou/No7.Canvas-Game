@@ -1,0 +1,7 @@
+﻿#start {
+    stroke: #ffffff;
+}
+#start:hover {
+    cursor: pointer;
+    stroke: #619ad3;
+}
